@@ -1,0 +1,22 @@
+#map {
+   margin-top: 25%; 
+}
+#history {
+    margin-top: 10%
+}
+#menu {
+    margin-top: 25%;
+    margin-bottom: 15%;
+}
+body {
+    background-color: #A44200;
+}
+#cardtext {
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    background-color: #fd8709;
+}
+#footer {
+
+}
