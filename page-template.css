@@ -9,14 +9,18 @@
     margin-bottom: 15%;
 }
 body {
-    background-color: #A44200;
+    background-color: white;
 }
 #cardtext {
     font-weight: bold;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 100%;
-    background-color: #fd8709;
+    background-color: gray;
 }
-#footer {
-
+.fixed-top.navbar.navbar-expand-lg {
+    background-color: black;
+}
+.carousel {
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
 }
